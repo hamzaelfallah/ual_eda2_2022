@@ -1,0 +1,7 @@
+100
+Elemento01 3 58
+Elemento02 12 119
+Elemento03 5 162
+Elemento04 7 67
+Elemento05 13 123
+Elemento06 3 63
